@@ -1,4 +1,4 @@
 - name: minimal-working
-  file: configurations/minimal-working.yml 
+  file: minimal-working.yml
 - name: sample-empty
-  file: configurations/sample-empty.yml 
+  file: sample-empty.yml
