@@ -1,2 +1,4 @@
-- minimal-working.yml 
-- sample-empty.yml
+- name: minimal-working
+  file: configurations/minimal-working.yml 
+- name: sample-empty
+  file: configurations/sample-empty.yml 
