@@ -1,0 +1,4 @@
+- name: minimal-working
+  file: minimal-working.yml
+- name: sample-empty
+  file: sample-empty.yml
